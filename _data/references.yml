@@ -37,7 +37,8 @@
   content: 'Q. Huang, Y. Xu, and C. Courcoubetis, “Stackelberg competition between merchant and regulated storage investment in wholesale electricity markets”, Applied Energy, vol. 264, 2020.'
 - ref_id: '[KPandzic2018]'
   content: 'K. Pandzic, H. Pandzic, and I. Kuzle, “Coordination of Regulated and Merchant Energy Storage Investments”, IEEE Transactions on Sustainable Energy, vol. 9, no. 3, pp. 1244-1254, Jul. 2018.'
-- ref_id: system of wind turbine, microturbine, solar array and battery storage. Applied energy, 87(10), 3051-3064.'
+- ref_id: 
+  content: system of wind turbine, microturbine, solar array and battery storage. Applied energy, 87(10), 3051-3064.'
 - ref_id: '[Fubara]'
   content: 'Fubara, T. C., Cecelja, F., & Yang, A. (2014). Modelling and selection of micro-CHP systems for domestic energy supply: The dimension of network-wide primary energy consumption. Applied Energy, 114, 327-334.'
 - ref_id: '[Chicco]'

@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AUTOGLEX project references
+title: AUTOFLEX project references
 email: prodromosmakris@mail.ntua.gr
 description: >- # this means to ignore newlines until "baseurl:"
-  'The list of references below corresponds to the AUTOFLEX project proposal coordinated by
+  The list of references and relevant projects corresponds to the AUTOFLEX project proposal coordinated by
   ICCS (EL) under HORIZON EUROPE call CL5-2021-D3-02-06: Increasing energy system flexibility
   based on sector-integration services to consumers (that benefits system management by DSOs
-  and TSOs'
+  and TSOs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://autoflex-project.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -34,7 +34,6 @@ url: "https://autoflex-project.github.io" # the base hostname & protocol for you
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

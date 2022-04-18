@@ -1,100 +1,162 @@
 ---
-- ref_id: "[CleanEnergyEU]"
-  content: "Clean energy for all Europeans package, Available Online: https://ec.europa.eu/energy/topics/energy-strategy/clean-energy-all-europeans_en"
-- ref_id: "[Zhao2020]"
-  content: "D. Zhao, H. Wang, J. Huang, and X. Lin, “Virtual Energy Storage Sharing and Capacity Allocation”, IEEE Transactions on Smart Grid, vol. 11, no. 2, pp. 1112-1123, Mar. 2020."
-- ref_id: "[Covic2020]"
-  content: "N. Covic, F. Braeuer, R. Mckenna, and H. Pandzic, “Optimal PV and Battery Investment of Market-Participating Industry Facilities”, IEEE Transactions on Power Systems, Early Access."
-- ref_id: "[Nasrolahpour2016]"
-  content: "E. Nasrolahpour, S. J. Kazempour, H. Zareipour, and W. D. Rosehart, “Strategic Sizing of Energy Storage Facilities in Electricity Markets”, IEEE Transactions on Sustainable Energy, vol. 7, no. 4, pp. 1462-1472, Oct. 2016."
+- ref_id: "[Zhang20]"
+  content: 'X. Zhang, D. Biagioni, M. Cai, P. Graf, and S. Rahman, “An edge cloud integrated solution for buildings demand response using reinforcement learning,” IEEE Transactions on Smart Grid, vol. 12, no. 1, pp. 420–431, 2020.'
+- ref_id: "[Yaghmaee17]"
+  content: 'M. H. Yaghmaee, A. Leon-Garcia, and M. Moghaddassian, “On the performance of distributed and cloud-based demand response in smart grid,” IEEE Transactions on Smart Grid, vol. 9, no. 5, pp. 5403–5417, 2017'
 - ref_id: "[Chen2019]"
-  content: "D. Chen, Z. Jing, and H. Tan, “Optimal Siting and Sizing of Used Battery Energy Storage Based on Accelerating Benders Decomposition”, IEEE Access, vol. 7, pp. 42993-43003, Mar. "
-- ref_id: "[Pandzic2018]"
-  content: "H. Pandzic, Y. Dvorkin, and M. Carrion, “Investments in merchant energy storage: Trading-off between energy and reserve markets”, Applied Energy, vol. 230, pp. 277-286, 2018."
-- ref_id: "[Mortaz2020]"
-  content: "E. Mortaz, “Portfolio Diversification for an Intermediary Energy Storage Merchant”, IEEE Transactions on Sustainable Energy, vol. 11, no. 3, pp. 1539-1547, Jul. 2020."
-- ref_id: "[Dvorkin2018a]"
-  content: "Y. Dvorkin, “Can Merchant Demand Response Affect Investments in Merchant Energy Storage?”, vol. 33, no. 3, pp. 2671-2683, May 2018."
-- ref_id: "[Shan2014]"
-  content: "J. Shan, and S. M. Ryan, “A tri-level model of centralized transmission and decentralized generation expansion planning for an electricity market – Part I”, IEEE Transactions on Power Systems, vol. 29, no. 1, pp. 132-141, Jan. 2014."
-- ref_id: "[Garces2009]"
-  content: "L. P. Garces, A. J. Conejo, R. Garcia-Bertrand, and R. Romero, “A Bilevel Approach to Transmission Expansion Planning Within a Market Environment”, IEEE Transactions on Power Systems, vol. 24, no. 3, pp. 1513-1522, Aug. 2009."
-- ref_id: "[Hassan2018]"
-  content: "A. Hassan, and Y. Dvorkin, “Energy Storage Siting and Sizing in Coordinated Distribution and Transmission Systems”, IEEE Trans. on Sust. Energy, vol. 9, no. 4, pp. 1692-1701, Oct. 2018"
-- ref_id: "[Dvorkin2017]"
-  content: "Y. Dvorkin, R. Fernandez-Blanco, D. S. Kirschen, H. Pandzic, J.-P. Watson, and C. A. Silva-Monroy, “Ensuring Profitability of Energy Storage”, IEEE Trans. on Power Systems, vol. 32, no. 1, pp. 611-623, Jan. 2017."
-- ref_id: "[Xu2017]"
-  content: "B. Xu, Y. Wang, Y. Dvorkin, R. Fenrandez-Blanco, A. Silva-Monroy, J.-P. Watson, and D. S. Kirschen, “Scalable Planning for Energy Storage in Energy and Reserve Markets”, IEEE Transactions on Power Systems, vol. 32, no. 6, pp. 4515-4527, Nov. 2017"
-- ref_id: "[Saber2020]"
-  content: "H. Saber, H. Heidarabadi, M. Moeini-Aghtaie, H. Farzin, and M. R. Karimi, “Expansion Planning Studies of Independent-Locally Operated Battery Energy Storage Systems (BESSs): A CVaR-Based Study”, IEEE Transactions on Sustainable Energy, vol. 11, no. 4, pp. 2109-2118, Oct. 2020."
-- ref_id: "[Moradijoz2018]"
-  content: "M. Moradijoz, M. P. Moghaddam, and M.-R. Haghifam, “A Flexibile Distribution System Expansion Planning Model: A Dynamic Bi-Level Approach”, IEEE Transactions on Smart Grid, vol. 9, no. 6, pp. 5867-5877, Nov. 2018."
-- ref_id: "[Mozaffari2020]"
-  content: "M. Mozaffari, H. A. Abyaneh, M. Jooshaki, and M. Moeini-Aghtaie, “Joint Expansion Planning Studies of EV Parking Lots Placement and Distribution Network”, IEEE Transactions on Industrial Informatics, vol. 16, no. 10, pp. 6455-6465, Oct. 2020."
-- ref_id: "[Dvorkin2018b]"
-  content: "Y. Dvorkin, R. Fernandez-Blanco, Y. Wang, B. Xu, D. S. Kirschen, H. Pandzic, J.-P. Watson, and C. A. Silva-Monroy, “Co-Planning of Investments in Transmission and Merchant Energy Storage”, IEEE Transactions on Power Systems, vol. 33, no. 1, pp. 245-256, Jan. 2018."
-- ref_id: "[Huang2020]"
-  content: "Q. Huang, Y. Xu, and C. Courcoubetis, “Stackelberg competition between merchant and regulated storage investment in wholesale electricity markets”, Applied Energy, vol. 264, 2020."
-- ref_id: "[KPandzic2018]"
-  content: "K. Pandzic, H. Pandzic, and I. Kuzle, “Coordination of Regulated and Merchant Energy Storage Investments”, IEEE Transactions on Sustainable Energy, vol. 9, no. 3, pp. 1244-1254, Jul. 2018."
-- ref_id: "[Kalantar]"
-  content: " M. Kalantar, “Dynamic behavior of a stand-alone hybrid power generation system of wind turbine, microturbine, solar array and battery storage” Applied energy, 87(10), 3051-3064."
+  content: 'S. Chen, L. Jiao, L. Wang, and F. Liu, “An online market mechanism for edge emergency demand response via cloudlet control,” in IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019, pp. 2566–2574.'
+- ref_id: "[Kulkarni2019]"
+  content: 'N. Kulkarni, S. Lalitha, and S. A. Deokar, “Real time control and monitoring of grid power systems using cloud computing.” International Journal of Electrical & Computer Engineering (2088- 8708), vol. 9, no. 2, 2019.'
+- ref_id: "[Kaur19]"
+  content: 'K. Kaur, S. Garg, G. Kaddoum, S. H. Ahmed, F. Gagnon, and M. Atiquzzaman, “Demand-response management using a fleet of electric vehicles: An opportunistic-sdn-based edge-cloud framework for smart grids,” IEEE Network, vol. 33, no. 5, pp. 46–53, 2019.'
+- ref_id: "[Shang20]"
+  content: 'Y. Shang, M. Liu, Z. Shao, and L. Jian, “Internet of smart charging points with photovoltaic integration: A high-efficiency scheme enabling optimal dispatching between electric vehicles and power grids,” Applied Energy, vol. 278, p. 115640, 2020.'
+- ref_id: "[Shahryari17]"
+  content: 'K. Shahryari and A. Anvari-Moghaddam, “Demand side management using the internet of energy based on fog and cloud computing,” in 2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData). IEEE, 2017, pp. 931–936'
+- ref_id: "[Ruan19]"
+  content: 'L. Ruan, Y. Yan, S. Guo, F. Wen, and X. Qiu, “Priority-based residential energy management with collaborative edge and cloud computing,” IEEE Transactions on Industrial Informatics, vol. 16, no. 3, pp. 1848–1857, 2019'
+- ref_id: "[Moghaddam18]"
+  content: 'M. H. Y. Moghaddam and A. Leon-Garcia, “A fog-based internet of energy architecture for transactive energy management systems,” IEEE Internet of Things Journal, vol. 5, no. 2, pp. 1055–1069, 2018.'
+- ref_id: "[Dabbaghjamanesh20]"
+  content: 'M. Dabbaghjamanesh, A. Kavousi-Fard, and Z. Y. Dong, “A novel distributed cloud-fog based framework for energy management of networked microgrids,” IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 2847–2862, 2020 '
+- ref_id: "[HAN14]"
+  content: 'J. Han, C. Choi, W. Park, I. Lee and S. Kim, "Smart home energy management system including renewable energy based on ZigBee and PLC," in IEEE Trans. Consum. Electron., vol. 60, no. 2, pp. 198-202, May 2014.'
+- ref_id: "[SON]"
+  content: 'Y. Son, T. Pulkkinen, K. Moon and C. Kim, "Home energy management system based on power line communication," in IEEE Trans. Consum. Electron., vol. 56, no. 3, pp. 1380-1386, Aug. 2010.'
+- ref_id: "[HAN11]"
+  content: 'J. Han, C. Choi, W. Park, I. Lee and S. Kim, "PLC-based photovoltaic system management for smart home energy management system," in IEEE Trans. Consum. Electron., vol. 60, no. 2, pp. 184-189, May 2014.'
+- ref_id: "[HAN10]"
+  content: 'D. Han and J. Lim, "Design and implementation of smart home energy management systems based on zigbee," in IEEE Trans. Consum. Electron., vol. 56, no. 3, pp. 1417-1425, Aug. 2010.'
+- ref_id: "[HAN11B]"
+  content: 'J. Han, C. Choi and I. Lee, "More efficient home energy management system based on ZigBee communication and infrared remote controls," in IEEE Trans. Consum. Electron., vol. 57, no. 1, pp. 85-89, February 2011.'
+- ref_id: "[GOLLOTTA15]"
+  content: 'M. Collotta and G. Pau, "A Novel Energy Management Approach for Smart Homes Using Bluetooth Low Energy," in IEEE Journal on Selected Areas in Communications, vol. 33, no. 12, pp. 2988-2996, Dec. 2015.'
+- ref_id: "[GOLLOTTA17]"
+  content: 'M. Collotta and G. Pau, "An Innovative Approach for Forecasting of Energy Requirements to Improve a Smart Home Management System Based on BLE," in IEEE Trans. Green Commun. Netw., vol. 1, no. 1, pp. 112-120, March 2017.'
+- ref_id: "[SENKE12]"
+  content: 'N. Senke et al., "Application of the IEC 61850 to communication in distribution automation and building energy management systems - Evaluation of the applicability of standard Logical Nodes and Data Objects," 2012 IEEE Third International Conference on Smart Grid Communications (SmartGridComm), Tainan, 2012, pp. 454-459.'
+- ref_id: "[IEC61850]"
+  content: '“Communication networks and systems for power utility automation, IEC 61850, Ed.2.0,” 2013.'
+- ref_id: "[IEC62325]"
+  content: '“Framework for energy market communications”, <https://webstore.iec.ch/publication/31487> '
+- ref_id: "[AFTAB19]"
+  content: 'M. A. Aftab, S. M. S. Hussain, I. Ali and T. S. Ustun, "A Novel SCL Configuration Method for Modeling Microgrids With IEC 61850," in IEEE Systems Journal, vol. 14, no. 2, pp. 2676-2683, June 2020.'
+- ref_id: "[HUSSAIN20]"
+  content: 'S. M. S. Hussain, M. A. Aftab, F. Nadeem, I. Ali and T. S. Ustun, "Optimal Energy Routing in Microgrids with IEC 61850 based Energy Routers," in IEEE Transactions on Industrial Electronics, vol. 67, no. 6, pp. 5161-5169, June 2020.'
+- ref_id: "[ALI18]"
+  content: 'I. Ali and S. M. Suhail Hussain, "Communication Design for Energy Management Automation in Microgrid," in IEEE Transactions on Smart Grid, vol. 9, no. 3, pp. 2055-2064, May 2018.'
+- ref_id: "[USTUN19]"
+  content: 'T. S. Ustun, M. A. Aftab, I. Ali and S. M. S. Hussain, "A Novel Scheme for Performance Evaluation of an IEC 61850-Based Active Distribution System Substation," in IEEE Access, vol. 7, pp. 123893-123902, 2019.'
+- ref_id: "[MESARIC15]"
+  content: 'Mesarić, P., Krajcar, S.: Home demand side management integrated with electric vehicles and renewable energy sources. Energy Build. 108, 1–9 (2015)'
+- ref_id: "[Soliman13]"
+  content: 'M. Soliman, T. Abiodun, T. Hamouda, J. Zhou, and C.-H. Lung, ``Smart home: Integrating Internet of Things with Web services and cloud computing,'' in Proc. IEEE 5th Int. Conf. Cloud Comput. Technol. Sci., Bristol, U.K., Dec. 2013, pp. 317-320.'
+- ref_id: "[Vishwakarma19]"
+  content: 'S. K. Vishwakarma, P. Upadhyaya, B. Kumari, and A. K. Mishra, ``Smart energy efficient home automation system using IoT,'' in Proc. 4th Int. Conf. Internet Things, Smart Innov. Usages (IoT-SIU), Ghaziabad, India, Apr. 2019, pp. 1-4.'
+- ref_id: "[1AMAZON20]"
+  content: 'Amazon Web Services. Accessed: Mar. 10, 2022. [Online]. Available: <https://www.aws.com>'
+- ref_id: "[2GOOGLE20]"
+  content: 'Google Cloud Platform. Accessed: Mar. 10, 2022. [Online]. Available: <https://cloud.google.com>'
+- ref_id: "[1OPENSTACK20]"
+  content: 'OpenStack. Accessed: Mar. 10, 2020. [Online]. Available: <https://www.openstack.org>'
+- ref_id: "[1VMWARE]"
+  content: 'Vmware. Accessed: Mar. 10, 2022. [Online]. Available: <https://www.vmware.com>'
+- ref_id: "[Shouran19]"
+  content: 'Z. Shouran, A. Ashari, and T. Kuntoro, ``Internet of Things (IoT) of smart home: Privacy and security,'' Int. J. Comput. Appl., vol. 182, no. 39, pp. 38, Feb. 2019.'
+- ref_id: "[Lin17]"
+  content: 'J. Lin, W. Yu, N. Zhang, X. Yang, H. Zhang, and W. Zhao, ``A survey on Internet of Things: Architecture, enabling technologies, security and privacy, and applications,'' IEEE Internet Things J., vol. 4, no. 5, pp. 1125-1142, Oct. 2017.'
+- ref_id: "[Linthicum20]"
+  content: 'D. Linthicum. Edge Computing vs. Fog Computing: Definitions and Enterprise Uses Cisco. Accessed: Mar. 29, 2020. [Online]. Available: <https://www.cisco.com/c/en/us/solutions/enterprise-networks/edgecomputing.html>'
+- ref_id: "[FOGCOM20]"
+  content: 'White Paper. Fog Computing and the Internet of Things: Extend the Cloud to Where the Things Are. Accessed: Mar. 10, 2020. [Online]. Available: <https://www.cisco.com/c/dam/en_us/solutions/trends/iot/docs/computingoverview.pdf>'
+- ref_id: "[Lopez15]"
+  content: 'P. G. Lopez, A. Montresor, D. Epema, A. Datta, T. Higashino, A. Iamnitchi, M. Barcellos, P. Felber, and E. Riviere, ``Edge-centric computing: Vision and challenges,'' Comput. Commun. Rev., vol. 45, no. 5, pp. 37-42, 2015.'
+- ref_id: "[Konecný16]"
+  content: 'J. Konecný, H. B. McMahan, F. X. Yu, A. T. Suresh, D. B. Google, and P. Richtárik, ``Federated learning: Strategies for improving communication efficiency,'' in Proc. 29th Conf. Neural Inf. Process. Syst. (NIPS), Barcelona, Spain, 2016, pp. 1-10.'
+- ref_id: "[Shareef]"
+  content: 'H. Shareef, M. S. Ahmed, A. Mohamed, and E. Al Hassan, ``Review on home energy management system considering demand responses, smart technologies, and intelligent controllers,'' IEEE Access, vol. 6, pp. 24498-24509, 2018.'
+- ref_id: "[Lashkari]"
+  content: 'B. Lashkari, Y. Chen, and P. Musilek, ``Energy management for smart homes State of the art,'' Appl. Sci., vol. 9, no. 17, p. 3459, Aug. 2019.'
+- ref_id: "[KNX]"
+  content: 'KNX Association. (2007). [Online]. Available: <http://www.knx.Org/it>'
+- ref_id: "[Denai]"
+  content: 'M. Denaï and S. Attia, ``Intelligent control of an induction motor,'' Electr. Power Compon. Syst., vol. 30, no. 4, pp. 409- 427, 2002.'
+- ref_id: "[Kerr]"
+  content: 'R. Kerr and E. Szelke, Articial Intelligence in Reactive Scheduling. London, U.K.: Springer, 2016.'
+- ref_id: "[Gharghan16]"
+  content: 'S. K. Gharghan, R. Nordin, M. Ismail, and J. A. Ali, ``Accurate wireless sensor localization technique based on hybrid PSO-ANN algorithm for indoor and outdoor track cycling,'' IEEE Sensors J., vol. 16, no. 2, pp. 529- 541, Jan. 2016.'
+- ref_id: "[Ahmed16]"
+  content: 'M. S. Ahmed, A. Mohamed, R. Z. Homod, and H. Shareef, ``Hybrid LSA-ANN based home energy management scheduling controller for residential demand response strategy,'' Energies, vol. 9, no. 9, p. 716, 2016.'
+- ref_id: "[Suganthi15]"
+  content: 'L. Suganthi, S. Iniyan, and A. A. Samuel, ``Applications of fuzzy logic in renewable energy systemsA review,'' Renew. Sustain. Energy Rev., vol. 48, pp. 585-607, Aug. 2015.'
+- ref_id: "[Wu11]"
+  content: 'Y. Wu, B. Zhang, J. Lu, and K.-L. Du, ``Fuzzy logic and neuro-fuzzy systems: A systematic introduction,'' Int. J. Artif. Intell. Expert Syst., vol. 2, no. 2, pp. 47-80, 2011.'
+- ref_id: "[Premkumar15]"
+  content: 'K. Premkumar and B. V. Manikandan, ``Fuzzy PID supervised online ANFIS based speed controller for brushless DC motor,'' Neurocomputing, vol. 157, pp. 76-90, Jun. 2015.'
+- ref_id: "[Shahgoshtasbi14]"
+  content: 'D. Shahgoshtasbi and M. M. Jamshidi, ``A new intelligent neuro-fuzzy paradigm for energy-efficient homes,'' IEEE Syst. J., vol. 8, no. 2, pp. 664-673, Jun. 2014.'
+- ref_id: "[Tsaousoglou21]"
+  content: 'Tsaousoglou, G., Sartzetakis, I., Makris, P., Efthymiopoulos, N., Varvarigos, E., & Paterakis, N. G. (2021). Flexibility Aggregation of Temporally Coupled Resources in Real Time Balancing Markets Using Machine Learning. IEEE Transactions on Industrial Informatics.'
+- ref_id: "[Tsaousoglou22]"
+  content: 'Tsaousoglou, G., Efthymiopoulos, N., Makris, P., & Varvarigos, E. (2022). Multistage Energy Management of Coordinated Smart Buildings: A Multiagent Markov Decision Process Approach. IEEE Transactions on Smart Grid.'
 - ref_id: "[Fubara]"
-  content: "Fubara, T. C., Cecelja, F., & Yang, A. (2014). Modelling and selection of micro-CHP systems for domestic energy supply: The dimension of network-wide primary energy consumption. Applied Energy, 114, 327-334."
+  content: 'Fubara, T. C., Cecelja, F., & Yang, A. (2014). Modelling and selection of micro-CHP systems for domestic energy supply: The dimension of network-wide primary energy consumption. Applied Energy, 114, 327-334.'
 - ref_id: "[Chicco]"
-  content: "Chicco, G., Riaz, S., Mazza, A., & Mancarella, P. (2020). Flexibility from distributed multienergy systems. Proceedings of the IEEE, 108(9), 1496-1517."
+  content: 'Chicco, G., Riaz, S., Mazza, A., & Mancarella, P. (2020). Flexibility from distributed multienergy systems. Proceedings of the IEEE, 108(9), 1496-1517.'
 - ref_id: "[Vandael]"
-  content: "Vandael, S., Claessens, B., Hommelberg, M., Holvoet, T., & Deconinck, G. (2012). A scalable three-step approach for demand side management of plug-in hybrid vehicles. IEEE Transactions on Smart Grid, 4(2), 720-728."
+  content: 'Vandael, S., Claessens, B., Hommelberg, M., Holvoet, T., & Deconinck, G. (2012). A scalable three-step approach for demand side management of plug-in hybrid vehicles. IEEE Transactions on Smart Grid, 4(2), 720-728.'
 - ref_id: "[Pan]"
-  content: "Pan, Z., Yu, T., Li, J., Qu, K., Chen, L., Yang, B., & Guo, W. (2020). Stochastic transactive control for electric vehicle aggregators coordination: A decentralized approximate dynamic programming approach. IEEE Transactions on Smart Grid, 11(5), 4261-4277."
+  content: 'Pan, Z., Yu, T., Li, J., Qu, K., Chen, L., Yang, B., & Guo, W. (2020). Stochastic transactive control for electric vehicle aggregators coordination: A decentralized approximate dynamic programming approach. IEEE Transactions on Smart Grid, 11(5), 4261-4277.'
 - ref_id: "[Tsaousoglou20a]"
-  content: "Tsaousoglou, G., Pinson, P., & Paterakis, N. G. (2020, September). Max-min fairness for demand side management under high RES penetration: Dealing with undefined consumer valuation functions. In 2020 International Conference on Smart Energy Systems and Technologies (SEST) (pp. 1-6). IEEE."
+  content: 'Tsaousoglou, G., Pinson, P., & Paterakis, N. G. (2020, September). Max-min fairness for demand side management under high RES penetration: Dealing with undefined consumer valuation functions. In 2020 International Conference on Smart Energy Systems and Technologies (SEST) (pp. 1-6). IEEE.'
 - ref_id: "[Mohsenian-Rad]"
-  content: "Mohsenian-Rad, A. H., & Leon-Garcia, A. (2010). Optimal residential load control with price prediction in real-time electricity pricing environments. IEEE transactions on Smart Grid, 1(2), 120-133."
+  content: 'Mohsenian-Rad, A. H., & Leon-Garcia, A. (2010). Optimal residential load control with price prediction in real-time electricity pricing environments. IEEE transactions on Smart Grid, 1(2), 120-133.'
 - ref_id: "[IRENA]"
-  content: "IRENA, “Virtual power lines,” 2020, International Renewable Energy Agency, Abu Dhabi. [Online]. Available: https://bit.ly/3oQgD0H"
+  content: 'IRENA, “Virtual power lines,” 2020, International Renewable Energy Agency, Abu Dhabi. [Online]. Available: <https://bit.ly/3oQgD0H>'
 - ref_id: "[Moon]"
   content: 'S. Moon and J. Lee, "Multi-Residential Demand Response Scheduling With Multi-Class Appliances in Smart Grid," in IEEE Transactions on Smart Grid, vol. 9, no. 4, pp. 2518-2528, July 2018. doi: 10.1109/TSG.2016.2614546'
 - ref_id: "[Li]"
-  content: "Li, N., Chen, L., & Low, S. H. (2011, July). Optimal demand response based on utility maximization in power networks. In 2011 IEEE power and energy society general meeting (pp. 1-8). IEEE."
+  content: 'Li, N., Chen, L., & Low, S. H. (2011, July). Optimal demand response based on utility maximization in power networks. In 2011 IEEE power and energy society general meeting (pp. 1-8). IEEE.'
 - ref_id: "[Paudyal]"
-  content: "Paudyal, P., Munankarmi, P., Ni, Z., & Hansen, T. M. (2019). A hierarchical control framework with a novel bidding scheme for residential community energy optimization. IEEE Transactions on Smart Grid, 11(1), 710-719."
+  content: 'Paudyal, P., Munankarmi, P., Ni, Z., & Hansen, T. M. (2019). A hierarchical control framework with a novel bidding scheme for residential community energy optimization. IEEE Transactions on Smart Grid, 11(1), 710-719.'
 - ref_id: "[Crawley]"
-  content: "D. B. Crawley et al., “Energyplus: creating a new-generation building energy simulation program,” Energy and Buildings, vol. 33, no. 4, pp. 319 – 331, 2001, special Issue: BUILDING SIMULATION"
+  content: 'D. B. Crawley et al., “Energyplus: creating a new-generation building energy simulation program,” Energy and Buildings, vol. 33, no. 4, pp. 319 – 331, 2001, special Issue: BUILDING SIMULATION'
 - ref_id: "[Schwele]"
-  content: "Schwele, A., Arrigo, A., Vervaeren, C., Kazempour, J., & Vallée, F. (2020). Coordination of Electricity, Heat, and Natural Gas Systems Accounting for Network Flexibility. Electric Power Systems Research, 189, 106776."
+  content: 'Schwele, A., Arrigo, A., Vervaeren, C., Kazempour, J., & Vallée, F. (2020). Coordination of Electricity, Heat, and Natural Gas Systems Accounting for Network Flexibility. Electric Power Systems Research, 189, 106776.'
 - ref_id: "[Ye]"
-  content: "Ye, Y., Qiu, D., Wu, X., Strbac, G. and Ward, J., 2020. Model-free real-time autonomous control for a residential multi-energy system using deep reinforcement learning. IEEE Transactions on Smart Grid, 11(4), pp.3068-3082."
+  content: 'Ye, Y., Qiu, D., Wu, X., Strbac, G. and Ward, J., 2020. Model-free real-time autonomous control for a residential multi-energy system using deep reinforcement learning. IEEE Transactions on Smart Grid, 11(4), pp.3068-3082.'
 - ref_id: "[Bahrami]"
-  content: "Bahrami, S., Toulabi, M., Ranjbar, S., Moeini-Aghtaie, M. and Ranjbar, A.M., 2017. A decentralized energy management framework for energy hubs in dynamic pricing markets. IEEE Transactions on Smart Grid, 9(6), pp.6780-6792."
+  content: 'Bahrami, S., Toulabi, M., Ranjbar, S., Moeini-Aghtaie, M. and Ranjbar, A.M., 2017. A decentralized energy management framework for energy hubs in dynamic pricing markets. IEEE Transactions on Smart Grid, 9(6), pp.6780-6792.'
 - ref_id: "[Saez-Gallego]"
-  content: "Saez-Gallego, J., Morales, J.M., Zugno, M. and Madsen, H., 2016. A data-driven bidding model for a cluster of price-responsive consumers of electricity. IEEE Transactions on Power Systems, 31(6), pp.5001-5011.s"
+  content: 'Saez-Gallego, J., Morales, J.M., Zugno, M. and Madsen, H., 2016. A data-driven bidding model for a cluster of price-responsive consumers of electricity. IEEE Transactions on Power Systems, 31(6), pp.5001-5011.s'
 - ref_id: "[Amara]"
-  content: "Amara, F., Agbossou, K., Cardenas, A., Dubé, Y., & Kelouwani, S. (2015). Comparison and simulation of building thermal models for effective energy management. Smart Grid and renewable energy, 6(04), 95."
+  content: 'Amara, F., Agbossou, K., Cardenas, A., Dubé, Y., & Kelouwani, S. (2015). Comparison and simulation of building thermal models for effective energy management. Smart Grid and renewable energy, 6(04), 95.'
 - ref_id: "[Dehghanpour]"
-  content: "Dehghanpour, K., Nehrir, M. H., Sheppard, J. W., & Kelly, N. C. (2016). Agent-based modeling of retail electrical energy markets with demand response. IEEE Transactions on Smart Grid, 9(4), 3465-3475."
+  content: 'Dehghanpour, K., Nehrir, M. H., Sheppard, J. W., & Kelly, N. C. (2016). Agent-based modeling of retail electrical energy markets with demand response. IEEE Transactions on Smart Grid, 9(4), 3465-3475.'
 - ref_id: "[Zhang]"
-  content: "Zhang, C., Kuppannagari, S. R., Kannan, R., & Prasanna, V. K. (2019, November). Building HVAC scheduling using reinforcement learning via neural network based model approximation. In Proceedings of the 6th ACM international conference on systems for energy-efficient buildings, cities, and transportation (pp. 287-296)."
+  content: 'Zhang, C., Kuppannagari, S. R., Kannan, R., & Prasanna, V. K. (2019, November). Building HVAC scheduling using reinforcement learning via neural network based model approximation. In Proceedings of the 6th ACM international conference on systems for energy-efficient buildings, cities, and transportation (pp. 287-296).'
 - ref_id: "[Vázquez-Canteli19a]"
-  content: "Vázquez-Canteli, J. R., Ulyanin, S., Kämpf, J., & Nagy, Z. (2019). Fusing TensorFlow with building energy simulation for intelligent energy management in smart cities. Sustainable cities and society, 45, 243-257."
+  content: 'Vázquez-Canteli, J. R., Ulyanin, S., Kämpf, J., & Nagy, Z. (2019). Fusing TensorFlow with building energy simulation for intelligent energy management in smart cities. Sustainable cities and society, 45, 243-257.'
 - ref_id: "[Ruelens]"
-  content: "Ruelens, F., Claessens, B. J., Vandael, S., De Schutter, B., Babuška, R., & Belmans, R. (2016). Residential demand response of thermostatically controlled loads using batch reinforcement learning. IEEE Transactions on Smart Grid, 8(5), 2149-2159."
+  content: 'Ruelens, F., Claessens, B. J., Vandael, S., De Schutter, B., Babuška, R., & Belmans, R. (2016). Residential demand response of thermostatically controlled loads using batch reinforcement learning. IEEE Transactions on Smart Grid, 8(5), 2149-2159.'
 - ref_id: "[Azutalam]"
-  content: "Azuatalam, D., Lee, W. L., de Nijs, F., & Liebman, A. (2020). Reinforcement learning for whole-building HVAC control and demand response. Energy and AI, 2, 100020."
-- ref_id: "[Vázquez-Canteli19b]"
-  content: "Vázquez-Canteli, J. R., & Nagy, Z. (2019). Reinforcement learning for demand response: A review of algorithms and modeling techniques. Applied energy, 235, 1072-1089."
+  content: 'Azuatalam, D., Lee, W. L., de Nijs, F., & Liebman, A. (2020). Reinforcement learning for whole-building HVAC control and demand response. Energy and AI, 2, 100020.'
+- ref_id: "[Minoli]"
+  content: 'Minoli, D., Sohraby, K., & Occhiogrosso, B. (2017). IoT considerations, requirements, and architectures for smart buildings—Energy optimization and next-generation building management systems. IEEE Internet of Things Journal, 4(1), 269-283.'
+- ref_id: "[Chung]"
+  content: 'Chung, H. M., Maharjan, S., Zhang, Y., & Eliassen, F. (2020). Distributed deep reinforcement learning for intelligent load scheduling in residential smart grids. IEEE Transactions on Industrial Informatics, 17(4), 2752-2763.'
+- ref_id: "[Truong]"
+  content: 'Truong, N. C., Baarslag, T., Ramchurn, G., & Tran-Thanh, L. (2016). Interactive scheduling of appliance usage in the home.'
+- ref_id: "[Vázquez-"
+  content:C"anteli19b] Vázquez-Canteli, J. R., & Nagy, Z. (2019). Reinforcement learning for demand response: A review of algorithms and modeling techniques. Applied energy, 235, 1072-1089.'
 - ref_id: "[Mason]"
-  content: "Mason, K., & Grijalva, S. (2019). A review of reinforcement learning for autonomous building energy management. Computers & Electrical Engineering, 78, 300-312."
+  content: 'Mason, K., & Grijalva, S. (2019). A review of reinforcement learning for autonomous building energy management. Computers & Electrical Engineering, 78, 300-312.'
 - ref_id: "[Pop]"
-  content: "Pop, R., Hassan, A., Bruninx, K., Chertkov, M., & Dvorkin, Y. (2019, June). A Markov process approach to ensemble control of smart buildings. In 2019 IEEE Milan PowerTech (pp. 1-6). IEEE."
+  content: 'Pop, R., Hassan, A., Bruninx, K., Chertkov, M., & Dvorkin, Y. (2019, June). A Markov process approach to ensemble control of smart buildings. In 2019 IEEE Milan PowerTech (pp. 1-6). IEEE.'
 - ref_id: "[Reynders]"
-  content: "G. Reynders, J. Diriken, and D. Saelens, “Quality of grey-box models and identified parameters as function of the accuracy of input and observation signals,” Energy and Buildings, vol. 82, pp. 263–274, 2014."
-- ref_id: "[Zhou]"
-  content: "Zhou, D. P., Hu, Q., & Tomlin, C. J. (2017, May). Quantitative comparison of data-driven and physics-based models for commercial building HVAC systems. In 2017 American Control Conference (ACC) (pp. 2900-2906). IEEE."
-- ref_id: "[Homod]"
-  content: "Homod, R. Z. (2013). Review on the HVAC system modeling types and the shortcomings of their application. Journal of Energy, 2013."
-- ref_id: "[Baldi]"
-  content: "Baldi, S., Michailidis, I., Ravanis, C., & Kosmatopoulos, E. B. (2015). Model-based and model-free “plug-and-play” building energy efficient control. Applied Energy, 154, 829-841."
+  content: 'G. Reynders, J. Diriken, and D. Saelens, “Quality of grey-box models and identified parameters as function of the accuracy of input and observation signals,” Energy and Buildings, vol. 82, pp. 263–274, 2014.'
+- ref_id: "[Saez-Gallego]"
+  content: 'Saez-Gallego, J., Morales, J.M., Zugno, M. and Madsen, H., 2016. A data-driven bidding model for a cluster of price-responsive consumers of electricity. IEEE Transactions on Power Systems, 31(6), pp.5001-5011.s'
 - ref_id: "[Li]"
   content: 'Y. Li and J. D. McCalley, "Decomposed SCOPF for Improving Efficiency," in IEEE Transactions on Power Systems, vol. 24, no. 1, pp. 494-495, Feb. 2009.'
 - ref_id: "[Khodr]"
@@ -104,170 +166,86 @@
 - ref_id: "[Peng]"
   content: 'Q. Peng and S. H. Low, "Distributed algorithm for optimal power flow on a radial network," 53rd IEEE Conference on Decision and Control, Los Angeles, CA, 2014, pp. 167-172.'
 - ref_id: "[Christakou]"
-  content: "K. Christakou, D.-C. Tomozei, J.-Y. Le Boudec and M. Paolone. AC OPF in radial distribution networks – Part II: An augmented Lagrangian-based OPF algorithm, distributable via primal decomposition, in Electric Power Systems Research, vol. 150, num. September, p. 24–35, 2017"
+  content:." K. Christakou, D.-C. Tomozei, J.-Y. Le Boudec and M. Paolone. AC OPF in radial distribution networks – Part II: An augmented Lagrangian-based OPF algorithm, distributable via primal decomposition, in Electric Power Systems Research, vol. 150, num. September, p. 24–35, 2017'
 - ref_id: "[Nick]"
   content: 'M. Nick, R. Cherkaoui and M. Paolone, "Optimal Allocation of Dispersed Energy Storage Systems in Active Distribution Networks for Energy Balance and Grid Support," in IEEE Transactions on Power Systems, vol. 29, no. 5, pp. 2300-2310, Sept. 2014.'
 - ref_id: "[Pan]"
-  content: "Pan, Z., Yu, T., Li, J., Qu, K., Chen, L., Yang, B., & Guo, W. (2020). Stochastic transactive control for electric vehicle aggregators coordination: A decentralized approximate dynamic programming approach. IEEE Transactions on Smart Grid, 11(5), 4261-4277."
+  content: 'Pan, Z., Yu, T., Li, J., Qu, K., Chen, L., Yang, B., & Guo, W. (2020). Stochastic transactive control for electric vehicle aggregators coordination: A decentralized approximate dynamic programming approach. IEEE Transactions on Smart Grid, 11(5), 4261-4277.'
 - ref_id: "[Chertkov]"
-  content: "Chertkov, M., Deka, D., & Dvorkin, Y. (2018, June). Optimal ensemble control of loads in distribution grids with network constraints. In 2018 Power Systems Computation Conference (PSCC) (pp. 1-7). IEEE."
+  content: 'Chertkov, M., Deka, D., & Dvorkin, Y. (2018, June). Optimal ensemble control of loads in distribution grids with network constraints. In 2018 Power Systems Computation Conference (PSCC) (pp. 1-7). IEEE.'
 - ref_id: "[Shin]"
-  content: "Shin, M., Choi, D. H., & Kim, J. (2019). Cooperative management for PV/ESS-enabled electric vehicle charging stations: A multiagent deep reinforcement learning approach. IEEE Transactions on Industrial Informatics, 16(5), 3493-3503."
+  content: 'Shin, M., Choi, D. H., & Kim, J. (2019). Cooperative management for PV/ESS-enabled electric vehicle charging stations: A multiagent deep reinforcement learning approach. IEEE Transactions on Industrial Informatics, 16(5), 3493-3503.'
 - ref_id: "[Du]"
-  content: "Du, Y., & Li, F. (2019). Intelligent multi-microgrid energy management based on deep neural network and model-free reinforcement learning. IEEE Transactions on Smart Grid, 11(2), 1066-1076."
+  content: 'Du, Y., & Li, F. (2019). Intelligent multi-microgrid energy management based on deep neural network and model-free reinforcement learning. IEEE Transactions on Smart Grid, 11(2), 1066-1076.'
 - ref_id: "[Lopez]"
-  content: "López, K. L., Gagné, C., & Gardner, M. A. (2018). Demand-side management using deep learning for smart charging of electric vehicles. IEEE Transactions on Smart Grid, 10(3), 2683-2691."
+  content: 'López, K. L., Gagné, C., & Gardner, M. A. (2018). Demand-side management using deep learning for smart charging of electric vehicles. IEEE Transactions on Smart Grid, 10(3), 2683-2691.'
 - ref_id: "[Frits]"
-  content: "De Nijs, F. (2019). Resource-constrained multi-agent Markov decision processes (Doctoral dissertation, Delft University of Technology)."
+  content: 'De Nijs, F. (2019). Resource-constrained multi-agent Markov decision processes (Doctoral dissertation, Delft University of Technology).'
 - ref_id: "[Wan]"
-  content: "Wan, Z., Li, H., He, H., & Prokhorov, D. (2018). Model-free real-time EV charging scheduling based on deep reinforcement learning. IEEE Transactions on Smart Grid, 10(5), 5246-5257."
+  content: 'Wan, Z., Li, H., He, H., & Prokhorov, D. (2018). Model-free real-time EV charging scheduling based on deep reinforcement learning. IEEE Transactions on Smart Grid, 10(5), 5246-5257.'
 - ref_id: "[Li19]"
-  content: "Li, H., Wan, Z., & He, H. (2019). Constrained EV charging scheduling based on safe deep reinforcement learning. IEEE Transactions on Smart Grid, 11(3), 2427-2439."
+  content: 'Li, H., Wan, Z., & He, H. (2019). Constrained EV charging scheduling based on safe deep reinforcement learning. IEEE Transactions on Smart Grid, 11(3), 2427-2439.'
 - ref_id: "[Boutilier]"
-  content: "Boutilier, C. (1999, July). Sequential optimality and coordination in multiagent systems. In IJCAI (Vol. 99, pp. 478-485)."
+  content: 'Boutilier, C. (1999, July). Sequential optimality and coordination in multiagent systems. In IJCAI (Vol. 99, pp. 478-485).'
 - ref_id: "[Guestrin]"
-  content: "Guestrin, C., Koller, D., Parr, R., & Venkataraman, S. (2003). Efficient solution algorithms for factored MDPs. Journal of Artificial Intelligence Research, 19, 399-468."
+  content: 'Guestrin, C., Koller, D., Parr, R., & Venkataraman, S. (2003). Efficient solution algorithms for factored MDPs. Journal of Artificial Intelligence Research, 19, 399-468.'
 - ref_id: "[Dvijotham]"
-  content: "Dvijotham, K., Chertkov, M., Van Hentenryck, P., Vuffray, M., & Misra, S. (2017). Graphical models for optimal power flow. Constraints, 22(1), 24-49."
+  content: 'Dvijotham, K., Chertkov, M., Van Hentenryck, P., Vuffray, M., & Misra, S. (2017). Graphical models for optimal power flow. Constraints, 22(1), 24-49.'
 - ref_id: "[Qu]"
-  content: "Qu, G., & Li, N. (2019, December). Exploiting fast decaying and locality in multi-agent mdp with tree dependence structure. In 2019 IEEE 58th Conference on Decision and Control (CDC) (pp. 6479-6486). IEEE."
+  content: 'Qu, G., & Li, N. (2019, December). Exploiting fast decaying and locality in multi-agent mdp with tree dependence structure. In 2019 IEEE 58th Conference on Decision and Control (CDC) (pp. 6479-6486). IEEE.'
 - ref_id: "[Exizidis]"
-  content: "Exizidis, L., Kazempour, J., Papakonstantinou, A., Pinson, P., De Greve, Z., & Vallée, F. (2019). Incentive-compatibility in a two-stage stochastic electricity market with high wind power penetration. IEEE Transactions on Power Systems, 34(4), 2846-2858."
+  content: 'Exizidis, L., Kazempour, J., Papakonstantinou, A., Pinson, P., De Greve, Z., & Vallée, F. (2019). Incentive-compatibility in a two-stage stochastic electricity market with high wind power penetration. IEEE Transactions on Power Systems, 34(4), 2846-2858.'
 - ref_id: "[Gribik]"
-  content: "Gribik, P. R., Hogan, W. W., & Pope, S. L. (2007). Market-clearing electricity prices and energy uplift. Cambridge, MA. "
+  content: 'Gribik, P. R., Hogan, W. W., & Pope, S. L. (2007). Market-clearing electricity prices and energy uplift. Cambridge, MA. '
 - ref_id: "[Gan]"
-  content: "Gan, D., & Litvinov, E. (2003). Energy and reserve market designs with explicit consideration to lost opportunity costs. IEEE Transactions on Power Systems, 18(1), 53-59."
+  content: 'Gan, D., & Litvinov, E. (2003). Energy and reserve market designs with explicit consideration to lost opportunity costs. IEEE Transactions on Power Systems, 18(1), 53-59.'
 - ref_id: "[Karaca]"
-  content: "Karaca, O., & Kamgarpour, M. (2019). Core-selecting mechanisms in electricity markets. IEEE Transactions on Smart Grid, 11(3), 2604-2614."
+  content: 'Karaca, O., & Kamgarpour, M. (2019). Core-selecting mechanisms in electricity markets. IEEE Transactions on Smart Grid, 11(3), 2604-2614.'
 - ref_id: "[Schiro]"
-  content: "Schiro, D. A., Zheng, T., Zhao, F., & Litvinov, E. (2015). Convex hull pricing in electricity markets: Formulation, analysis, and implementation challenges. IEEE Transactions on Power Systems, 31(5), 4068-4075."
-- ref_id: "[Tsaousoglou]"
-  content: "Tsaousoglou, G., Giraldo, J. S., Pinson, P., & Paterakis, N. G. (2020). Mechanism Design for Fair and Efficient DSO Flexibility Markets. IEEE Transactions on Smart Grid."
-- ref_id: Cadre]'
-  content: "H. L. Cadre, I. Mezghani, A. Papavasiliou, “A game-theoretic analysis of transmission-distribution system operator coordination”, Elsevier European Journal of Operational Research, vol. 274(1), pp. 317-339, 2019."
+  content: 'Schiro, D. A., Zheng, T., Zhao, F., & Litvinov, E. (2015). Convex hull pricing in electricity markets: Formulation, analysis, and implementation challenges. IEEE Transactions on Power Systems, 31(5), 4068-4075.'
+- ref_id: "[Tsaousoglou20b]"
+  content: 'Tsaousoglou, G., Giraldo, J. S., Pinson, P., & Paterakis, N. G. (2020). Mechanism Design for Fair and Efficient DSO Flexibility Markets. IEEE Transactions on Smart Grid.'
+- ref_id: "[Cadre]"
+  content: 'H. L. Cadre, I. Mezghani, A. Papavasiliou, “A game-theoretic analysis of transmission-distribution system operator coordination”, Elsevier European Journal of Operational Research, vol. 274(1), pp. 317-339, 2019.'
 - ref_id: "[Gerard]"
-  content: "H. Gerard, E. I. R. Puente, and D. Six, “Coordination between transmission and distribution system operators in the electricity sector: A conceptual framework,” Utilities Policy, vol. 50, pp. 40–48, 2018."
+  content: 'H. Gerard, E. I. R. Puente, and D. Six, “Coordination between transmission and distribution system operators in the electricity sector: A conceptual framework,” Utilities Policy, vol. 50, pp. 40–48, 2018.'
 - ref_id: "[Morch]"
-  content: 'A. Z. Morch, H. Sæle, D. Siface, H. Gerard and I. Kockar, "Market architecture for TSO-DSO interaction in the context of European regulation," 2019 16th International Conference on the European Energy Market (EEM), Ljubljana, Slovenia, 2019, pp. 1-5, doi: 10.1109/EEM.2019.8916314.'
+  content: 'A. Z. Morch, H. Sæle, D. Siface, H. Gerard and I. Kockar, "Market architecture for TSO-DSO interaction in the context of European regulation," 2019 16th International Conference on the European Energy Market (EEM), Ljubljana, Slovenia, 2019, pp. 1-5, doi: 10.1109/EEM.2019.8916314.'
 - ref_id: "[Burger]"
-  content: "Scott P. Burger, Jesse D. Jenkins, Carlos Batlle and Ignacio J. Pérez-Arriaga, “Restructuring Revisited Part 2: Coordination in Electricity Distribution System”, The Energy Journal, Vol. 40(3), 2019."
+  content: 'Scott P. Burger, Jesse D. Jenkins, Carlos Batlle and Ignacio J. Pérez-Arriaga, “Restructuring Revisited Part 2: Coordination in Electricity Distribution System”, The Energy Journal, Vol. 40(3), 2019.'
 - ref_id: "[Caramanis]"
-  content: "Michael C. Caramanis, Elli Ntakou, William Hogan, Aranya Chakrabortty, and Jens Schoene, “Co-optimization of power and reserves in dynamic T&D power markets with non-dispatchable renewable generation and distributed energy resources”, Proceedings of the IEEE, 104(4):807–836, April 2016."
-- ref_id: "[Ye]"
-  content: "Ye, Y., Qiu, D., Wu, X., Strbac, G. and Ward, J., 2020. Model-free real-time autonomous control for a residential multi-energy system using deep reinforcement learning. IEEE Transactions on Smart Grid, 11(4), pp.3068-3082."
-- ref_id: "[Bahrami]"
-  content: "Bahrami, S., Toulabi, M., Ranjbar, S., Moeini-Aghtaie, M. and Ranjbar, A.M., 2017. A decentralized energy management framework for energy hubs in dynamic pricing markets. IEEE Transactions on Smart Grid, 9(6), pp.6780-6792."
-- ref_id: "[Saez-Gallego]"
-  content: "Saez-Gallego, J., Morales, J.M., Zugno, M. and Madsen, H., 2016. A data-driven bidding model for a cluster of price-responsive consumers of electricity. IEEE Transactions on Power Systems, 31(6), pp.5001-5011.s"
-- ref_id: "[Li]"
-  content: "Li, S. H. Low, and A. Wierman, “Real-time flexibility feedback for closed-loop aggregator and system operator coordination,” arXiv2006.13814, 2020"
-- ref_id: "[Iria]"
-  content: "Iria, J., Soares, F., & Matos, M. (2018). Optimal supply and demand bidding strategy for an aggregator of small prosumers. Applied Energy, 213, 658-669."
-- ref_id: "[Xu]"
-  content: "Xu, H., Sun, H., Nikovski, D., Kitamura, S., Mori, K., & Hashimoto, H. (2019). Deep reinforcement learning for joint bidding and pricing of load serving entity. IEEE Transactions on Smart Grid, 10(6), 6366-6375."
-- ref_id: "[DiSomma2019]"
-  content: "M. Di Somma, G. Graditi, and P. Siano, “Optimal Bidding Strategy for a DER Aggregator in the Day-Ahead Market in the Presence of Demand Flexibility”, IEEE Transactions on Industrial Electronics, vol. 66, no. 2, pp. 1509-1519, Feb. 2019."
-- ref_id: "[Iria2018]"
-  content: "J. P. Iria, F. J. Soares, and M. A. Matos, “Optimal supply and demand bidding strategy for an aggregator of small prosumers”, Applied Energy, vol. 213, pp. 658-669, Mar. 2018."
-- ref_id: "[Iria2019]"
-  content: "J. P. Iria, F. J. Soares, and M. A. Matos, “Trading Small Prosumers Flexibility in the Energy and Tertiary Reserve Markets”, IEEE Transactions on Smart Grid, vol. 10, no. 3, pp. 2371-2382, May 2019."
-- ref_id: "[Vatandoust2019]"
-  content: "B. Vatandoust, A. Ahmadian, M. A. Golkar, A. Elkamel, A. Almansoori, and M. Ghaljehei, “Risk-Averse Optimal Bidding of Electric Vehicles and Energy Storage Aggregator in Day-Ahead Frequency Regulation Market”, IEEE Transactions on Power Systems, vol. 34, no. 3, pp. 2036-2047, May 2019."
-- ref_id: "[Zhao2021]"
-  content: "H. Zhao, B. Wang, Z. Pan, H. Sun, Q. Guo, and Y. Xue, “Aggregating Additional Flexibility From Quick-Start Devices for Multi-Energy Virtual Power Plants”, IEEE Transactions on Sustainable Energy, vol. 12, no. 1, pp.646-658, Jan. 2021."
-- ref_id: "[Correa-Florez2020]"
-  content: "C. A. Correa-Florez, A. Michiorri, and G. Kariniotakis, “Optimal Participation of Residential Aggregators in Energy and Local Flexibility Markets”, IEEE Transactions on Smart Grid, vol. 11, no. 2, pp. 1644-1656, Mar. 2020."
-- ref_id: "[Ding2016]"
-  content: "H. Ding, P. Pinson, Z. Hu, and Y. Song, “Integrated Bidding and Operating Strategies for Wind-Storage Systems”, IEEE Transactions on Sustainable Energy, vol. 7, no. 1, pp. 163-172, Jan. 2016. "
-- ref_id: "[Zhang2020]"
-  content: "R. Zhang, T. Jiang, F. Li, G. Li, H. Chen, and X. Li, “Coordinated Bidding Strategy of Wind Farms and Power-to-Gas Facilities Using a Cooperative Game Approach”, IEEE Transactions on Sustainable Energy, vol. 11, no. 4, pp. 2545-2555, Oct. 2020."
-- ref_id: "[Attarha2019]"
-  content: "A. Attarha, N. Amjady, and S. Dehghan, “Affinely Adjustable Robust Bidding Strategy for a Solar Plant Paired With a Battery Storage”, IEEE Transactions on Smart Grid, vol. 10, no. 3, pp. 2629-2640, May 2019."
-- ref_id: "[Zhao2017]"
-  content: "Z. Zhao, C. Wang, M. Nokleby, and C. J. Miller, “Improving short-term electricity price forecasting using day-ahead LMP with ARIMA models”, in Proc. 2017 IEEE Power & Energy Society General Meeting (PESGM), Chicago, IL, USA, 2017, pp. 1-5."
-- ref_id: "[Bissing2019]"
-  content: "D. Bissing, M. T. Klein, R. A. Chinnathambi, D. F. Selvaraj, and P. Ranganathan, A hybrid regression model for day-ahead energy price forecasting“, IEEE Access, vol. 7, pp. 36833-36842, 2019."
-- ref_id: "[Girish2016]"
-  content: "G. P. Girish, “Spot electricity price forecasting in Indian electricity market using autoregressive-GARCH models”, Energy Strategy Reviews, vol. 11-12, pp. 52-57, Jun. 2016."
-- ref_id: "[Wang2017a]"
-  content: "L. Wang, Z. Zhang, and J. Chen, “Short-Term Electricity Price Forecasting With Stacked Denoising Autoencoders”, IEEE Transactions on Power Systems, vol. 32, no. 4, pp. 2673-2681. Jul. 2017."
-- ref_id: "[Hong2020]"
-  content: "Y.-Y. Hong, J. V. Taylar, and A. C. Fajardo, “Locational Marginal Price Forecasting Using Deep Learning Network Optimized by Mapping-Based Genetic Algorithm”, IEEE Access, vol. 8, pp. 91975-97988, May 2020."
-- ref_id: "[Bose2017]"
-  content: "B. K. Bose, “Artificial intelligence techniques in smart grid and renewable energy systems – Some example applications”, Proc. IEEE, vol. 105, no. 11, pp. 2262-2273, Apr. 2017."
-- ref_id: "[Ugurlu2018]"
-  content: "U. Ugurlu, I. Oksuz, and O. Taz, “Electricity price forecasting using recurrent neural networks”, Energies, vol. 11, no. 5, May 2018."
-- ref_id: "[Alamaniotis2015]"
-  content: "M. Alamaniotis, D. Bargiotas, N. G. Bourbakis, and L. H. Tsoukalas, “Genetic optimal regression of relevance vector machines for electricity pricing signal forecasting in smart grids”, IEEE Transactions on Smart Grid, vol. 6, no. 6, pp. 2997-3005, Nov. 2015."
-- ref_id: "[Ghasemi2016]"
-  content: "A. Ghasemi, H. Shayeghi, M. Moradzadeh, and M. Nooshyar, “A novel hybrid algorithm for electricity price and load forecasting in smart grids with demand-side management”, Applied Energy, vol. 177, pp. 40-59, Sep. 2016."
-- ref_id: "[Mandal2013]"
-  content: "P. Mandal, J. Meng, A. K. Srivastava, and R. Martinez, “A novel hybrid approach using wavelet, firefly algorithm, and fuzzy ARTMAP for day-ahead electricity price forecasting”, IEEE Transactions on Power Systems, vol. 28, no. 2, pp. 1041-1051, May 2013."
-- ref_id: "[Lago2018]"
-  content: "J. Lago, F. De Ridder, and B. De Schutter, “Forecasting spot electricity prices: Deep learning approaches and empirical comparison of traditional algorithms”, Applied Energy, vol. 221, pp. 386-405, Jul. 2018."
-- ref_id: "[Rad2016]"
-  content: "H. Mohsenian-Rad, “Coordinated Price-Maker Operation of Large Energy Storage Units in Nodal Energy Markets”, IEEE Transactions on Power Systems, vol. 31, no. 1, pp. 789-797, Jan. 2016."
-- ref_id: "[Steriotis2020]"
-  content: "K. Steriotis, K. Smpoukis, N. Efthymiopoulos, G. Tsaousoglou, P. Makris, and E. Varvarigos, “Strategic and network-aware bidding policy for electric utilities through the optimal orchestration of a virtual and heterogeneous flexibility assets’ portfolio”, Electric Power Systems Research, vol. 184, 2020."
-- ref_id: "[Wang2021]"
-  content: "S. Wang, X. Tan, T. Liu, and D. H. K. Tsang, “Aggregation of Demand-Side Flexibility in Electricity Markets: Negative Impact Analysis and Mitigation Method”, IEEE Transactions on Smart Grid, vol. 12, no. 1, pp. 774-786, Jan. 2021."
-- ref_id: "[Nasrolahpour2018a]"
-  content: "E. Nasrolahpour, J. Kazempour, H. Zareipour, and W. D. Rosehart, “Impacts of Ramping Inflexibility of Conventional Generators on Strategic Operation of Energy Storage Facilities”, IEEE Transactions on Smart Grid, vol. 9, no. 2, pp. 1334-1344, Mar. 2018."
-- ref_id: "[Wang2017b]"
-  content: "Y. Wang, Y. Dvorkin, R. Fernandez-Blanco, B. Xu, T. Qiu, and D. S. Kirschen, “Look-Ahead Bidding Strategy for Energy Storage”, IEEE Transactions on Sustainable Energy, vol. 8, no. 3, pp. 1106-1117, Jul. 2017."
-- ref_id: "[Vivero-Serrano2019]"
-  content: "G. De Vivero-Serrano, K. Bruninx, and E. Delarue, “Implications of bid structures on the offering strategies of merchant energy storage systems”, Applied Energy, vol. 251, Oct. 2019."
-- ref_id: "[Jia2018]"
-  content: "Y. Jia, Z. Mi, Y. Yu, Z. Song, and C. Sun, “A Bilevel Model for Optimal Bidding and Offering of Flexible Load Aggregator in Day-Ahead Energy and Reserve Markets”, IEEE Access, vol. 6, pp. 67799 – 67808, Nov. 2018. "
-- ref_id: "[Bahramara2018]"
-  content: "S. Bahramara, M. Yazdani-Damavandi, J. Contreras, M. Shafie-Khah, and J. P. S. Catalao, “Modeling the Strategic Behavior of a Distribution Company in Wholesale Energy and Reserve Markets”, IEEE Transactions on Smart Grid, vol. 9, no. 4, pp. 3857-3870, Jul. 2018."
-- ref_id: "[Sepetanc2020]"
-  content: "K. Sepetanc, and H. Pandzic, “A Cluster-Based Operation Model of Aggregated Battery Swapping Stations”, IEEE Transactions on Power Systems, vol. 35, no. 1, pp. 249-260, Jan. 2020."
-- ref_id: "[Nasrolahpour2018b]"
-  content: "E. Nasrolahpour, J. Kazempour, H. Zareipour, and W. D. Rosehart, “A Bilevel Model for Participation of a Storage System in Energy and Reserve Markets”, IEEE Transactions on Sustainable Energy, vol. 9, no. 2, pp. 582-598, Apr. 2018."
-- ref_id: "[KPandzic2021]"
-  content: "K. Pandzic, K. Bruninx, and H. Pandzic, “Managing Risks Faced b Strategic Battery Storage in Joint Energy-Reserve Markets”, IEEE Transactions on Power Systems, Early Access."
-- ref_id: "[Zou2016]"
-  content: "P. Zou, Q. Chen, Q. Xia, G. He, C. Kang, and A. J. Conejo, “Pool equilibria including strategic storage”, Applied Energy, vol. 177, pp. 260-270, 2016."
-- ref_id: "[KPandzic2019]"
-  content: "K. Pandzic, H. Pandzic, and I. Kuzle, “Virtual storage plant offering strategy in the day-ahead electricity market”, International Journal of Electrical Power & Energy Systems, vol. 104, pp. 401-413, 2019."
-- ref_id: "[Naebi2020]"
-  content: "A. Naebi, S. SeyedShenava, J. Contreras, C. Ruiz, A. Akbarimajd, “EPEC approach for finding optimal day-ahead bidding strategy equilibria of multi-microgrids in active distribution networks”, International Journal of Electrical Power & Energy Systems, vol. 117, 2020."
-- ref_id: "[Ye2019]"
-  content: "Y. Ye, D. Qiu, J. Li, and G. Strbac, “Multi-Period and Multi-Spatial Equilibrium Analysis in Imperfect Electricity Markets: A Novel Multi-Agent Deep Reinforcement Learning Approach”, IEEE Access, vol. 7, pp. 130515-130529, Sep. 2019."
-- ref_id: "[Ye2020]"
-  content: "Y. Ye, D. Qiu, M. Sun, D. Papadaskalopoulos, and G. Strbac, “Deep Reinforcement Learning for Strategic Bidding in Electricity Markets”, IEEE Transactions on Smart Grid, vol. 11, no. 2, pp. 1343-1355, Mar. 2020."
-- ref_id: "[Wang2018]"
-  content: "H. Wang, and B. Zhang, “Energy Storage Arbitrage in Real-Time Markets via Reinforcement Learning”, in Proc. 2018 IEEE Power & Energy Society General Meeting (PESGM), Portland, OR, USA, 2018, pp. 1-5."
-- ref_id: "[Boukas2018]"
-  content: "I. Boukas, D. Ernst, A. Papavasiliou, and B. Cornelusse, “Intra-day Bidding Strategies for Storage Devices Using Deep Reinforcement Learning”, in Proc. European Workshop on Reinforcement Learning, Lille, France, 2018."
-- ref_id: "[Chen2018]"
-  content: "T. Chen, and W. Su, “Local Energy Trading Behavior Modeling With Deep Reinforcement Learning”, IEEE Access, vol. 6, pp. 62806-62814, 2018."
-- ref_id: "[EDSO21]"
-  content: "“DSO-TSO Roadmap on the Evolution of the Regulatory Framework for Distributed Flexibility - A joint report by ENTSO-E and the European Associations representing DSOs (CEDEC, E.DSO, Eurelectric, GEODE)”, June 2021. Available online: https://www.edsoforsmartgrids.eu/dso-tso-roadmap-on-the-evolution-of-the-regulatory-framework-for-distributed-flexibility-2/ "
-- ref_id: "[DMWG21]"
-  content: "“European energy data exchange reference architecture – BRIDGE Data Management Working Group”, April 2021. Available online: https://ec.europa.eu/energy/sites/default/files/documents/bridge_wg_data_management_eu_reference_architcture_report_2020-2021.pdf "
-- ref_id: "[RWG21]"
-  content: "“Harmonized Electricity Market Role Model” (HEMRM) - A Differential Analysis with Respect to the ENTSO-E – ebIX – EFET Model – BRIDGE Regulation WG”, April 2021. Available online: "
-- ref_id: "[DM21]"
-  content: "“Interoperability of flexibility assets - Consultation of BRIDGE projects about the Reference Framework & GBPs -BRIDGE Data Management Working Group, June 2021. Available online: https://ec.europa.eu/energy/sites/default/files/documents/bridge_wg_data_management_interoperability_of_flexibility_assets_report_2020-2021.pdf "
-- ref_id: "[EUSGF19]"
-  content: "European Smart Grids Task Force Expert Group 3, “Final Report: Demand Side Flexibility: Perceived barriers and proposed recommendations”, April 2019. Available online: https://ec.europa.eu/energy/sites/ener/files/documents/eg3_final_report_demand_side_flexiblity_2019.04.15.pdf    "
-- ref_id: "[Steriotis21]"
-  content: 'K. Steriotis, K. Sepetanc, K. Smpoukis, N. Efthymiopoulos, P. Makris, E. Varvarigos, H. Pandzic, "Stacked Revenues Maximization of Distributed Battery Storage Units via Emerging Flexibility Markets," in IEEE Transactions on Sustainable Energy, doi: 10.1109/TSTE.2021.3117313.'
-- ref_id: "[Badanjak21]"
-  content: 'D. Badanjak and H. Pandžić, "Battery Storage Participation in Reactive and Proactive Distribution-Level Flexibility Markets," in IEEE Access, vol. 9, pp. 122322-122334, 2021, doi: 10.1109/ACCESS.2021.3109108.'
-- ref_id: "[DRaaS21]"
-  content: 'G. Tsaousoglou, P. Soumplis, N. Efthymiopoulos, K. Steriotis, A. Kretsis, P. Makris. P. Kokkinos, E. Varvarigos, "Demand Response as a Service: Clearing Multiple Distribution-Level Markets," in IEEE Transactions on Cloud Computing, doi: 10.1109/TCC.2021.3117598.'
-- ref_id: "[Andren19]"
-  content: 'F. P. Andrén et al., "Validating Coordination Schemes between Transmission and Distribution System Operators using a Laboratory-Based Approach," 2019 IEEE Milan PowerTech, 2019, pp. 1-6, doi: 10.1109/PTC.2019.8810770.'
-- ref_id: "[SmartNet20]"
-  content: "M. Rossia et al., “TSO-DSO coordination to acquire services from distribution grids: Simulations, cost-benefit analysis and regulatory conclusions from the SmartNet project”, Elsevier EPSR, vol. 189, 2020."
-- ref_id: "[FLEXGRID21]"
-  content: "N. Efthymiopoulos, P. Makris, et al., “FLEXGRID - A novel smart grid architecture that facilitates high RES penetration through innovative markets towards efficient interaction between advanced electricity grid management and intelligent stakeholders”, Open Research Europe Journal, accepted for publication, October 2021."
-- ref_id: "[Tsaou20]"
-  content: 'G. Tsaousoglou, K. Steriotis, N. Efthymiopoulos, P. Makris and E. Varvarigos, "Truthful, Practical and Privacy-Aware Demand Response in the Smart Grid via a Distributed and Optimal Mechanism," in IEEE Transactions on Smart Grid, vol. 11, no. 4, pp. 3119-3130, July 2020, doi: 10.1109/TSG.2020.2965221.'
-- ref_id: "[Tsaousoglou21]"
-  content: 'G. Tsaousoglou, K. Mitropoulou, K. Steriotis, N. G. Paterakis, P. Pinson and E. Varvarigos, "Managing Distributed Flexibility Under Uncertainty by Combining Deep Learning With Duality," in IEEE Transactions on Sustainable Energy, vol. 12, no. 4, pp. 2195-2204, Oct. 2021, doi: 10.1109/TSTE.2021.3086846.'
-- ref_id: "[P2P21]"
-  content: 'G. Tsaousoglou, P. Pinson and N. G. Paterakis, "Transactive Energy for Flexible Prosumers Using Algorithmic Game Theory," in IEEE Transactions on Sustainable Energy, vol. 12, no. 3, pp. 1571-1581, July 2021, doi: 10.1109/TSTE.2021.3055764.    '
+  content: 'Michael C. Caramanis, Elli Ntakou, William Hogan, Aranya Chakrabortty, and Jens Schoene, “Co-optimization of power and reserves in dynamic T&D power markets with non-dispatchable renewable generation and distributed energy resources”, Proceedings of the IEEE, 104(4):807–836, April 2016.'
+- ref_id: "[IEC60870-6]"
+  content: '<https://en.wikipedia.org/wiki/IEC_60870-6>'
+- ref_id: "[VDE-AR-N 4140]"
+  content: '<https://www.vde-verlag.de/standards/0100363/vde-ar-n-4140-anwendungsregel-2017-02.html>'
+- ref_id: "[EPBD]"
+  content: 'Energy Performance of Buildings Directive, <https://epb.center/epb-standards/energy-performance-buildings-directive-epbd/> '
+- ref_id: "[SRI]"
+  content: 'Smart Readiness Indicator, <https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/smart-readiness-indicator_en> '
+- ref_id: "[DBL]"
+  content: 'EU framework for Digital Building Logbook - <https://op.europa.eu/en/publication-detail/-/publication/cacf9ee6-06ba-11eb-a511-01aa75ed71a1/language-en>'
+- ref_id: "[RW]"
+  content: 'A Renovation Wave for Europe - greening our buildings, creating jobs, improving lives,  <https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/renovation-wave_en>'
+- ref_id: "[SFTR]"
+  content: 'Sustainable Finance Taxonomy Regulation (EU) 2020/852, <https://ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainable-finance/eu-taxonomy-sustainable-activities_en> '
+- ref_id: "[DoEAP]"
+  content: 'Action Plan on the Digitalisation of the Energy System (DoEAP) <https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13141-Digitalising-the-energy-sector-EU-action-plan_en>'
+- ref_id: "[SBA]"
+  content: 'Smart Buildings Alliance for Smart Cities - <https://www.smartbuildingsalliance.org/en/home>'
+- ref_id: "[HEU21]"
+  content: '<https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/democracy-and-rights/gender-equality-research-and-innovation_en#:~:text=As%20detailed%20in%20the%20last,research%20organisations%20from%20EU%20Member> '
+- ref_id: "[CEP19]"
+  content: 'DIRECTIVE (EU) 2019/944 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (recast), June 2019. <https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0944&from=EN> '
+- ref_id: "[Steriotis22]"
+  content: 'K. Steriotis, K. Sepetanc, K. Smpoukis, N. Efthymiopoulos, P. Makris, E. Varvarigos, H. Pandzic, “Stacked Revenues Maximization of Distributed Battery Storage Units via Emerging Flexibility Markets”, IEEE Transactions on Sustainable Energy, vol. 13, no. 1, pp. 464-478, Jan. 2022, <https://ieeexplore.ieee.org/document/9557813>.'
+- ref_id: "[Steriotis22b]"
+  content: 'K. Steriotis Konstantinos, et al. "Co-optimization of Distributed Renewable Energy and Storage Investment Decisions in a TSO-DSO Coordination Framework", 2022, <https://www.techrxiv.org/articles/preprint/Co-optimization_of_Distributed_Renewable_Energy_and_Storage_Investment_Decisions_in_a_TSO-DSO_Coordination_Framework/19298513>'
+- ref_id: "[Tsaousoglou20]"
+  content: 'G. Tsaousoglou, et al. "Truthful, practical and privacy-aware demand response in the smart grid via a distributed and optimal mechanism", IEEE Transactions on Smart Grid 11.4 (2020): 3119-3130, <https://ieeexplore.ieee.org/document/8954657>'
+- ref_id: "[FLEXSHAPE Aggregator-as-a-Service (AaaS)]"
+  content: '<https://www.flexshape.dk/solutions/aaas>'
+- ref_id: "[Efthymiopoulos]"
+  content: 'N. Efthymiopoulos, et al. "FLEXGRID–A novel smart grid architecture that facilitates high-RES penetration through innovative flexibility markets towards efficient stakeholder interaction." Open Research Europe 1.128 (2021): 128, <https://open-research-europe.ec.europa.eu/articles/1-128/v1>.'
+- ref_id: "[SAREF4ENER]"
+  content: 'Daniele, L.; Solanki, M.; den Hartog, F.; Roes, J. Interoperability for Smart Appliances in the IoT World. In International Semantic Web Conference; Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 9982 LNCS; Springer: Cham, Switzerland, 2016; pp. 21–29."'

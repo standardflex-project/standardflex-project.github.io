@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AUTOFLEX project references
+title: STANDARDFLEX project references
 email: prodromosmakris@mail.ntua.gr
 description: >- # this means to ignore newlines until "baseurl:"
-  The list of references and relevant projects corresponds to the AUTOFLEX project proposal coordinated by
-  ICCS (EL) under HORIZON EUROPE call CL5-2021-D3-02-06: Increasing energy system flexibility
-  based on sector-integration services to consumers (that benefits system management by DSOs
-  and TSOs
+  The list of references and relevant projects corresponds to the STANDARDFLEX project proposal coordinated by
+  ICCS (EL) under
+  HORIZON-CL5-2022-D3-01-12: Replicable solutions for a cross sector compliant energy ecosystem
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://autoflex-project.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://standardflex-project.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 

@@ -6,16 +6,15 @@ layout: page
 title: ""
 ---
 
-## Accompanying material for the AUTOFLEX project proposal.
+## Accompanying material for the STANDARDFLEX project proposal.
 
-The list of references and relevant projects below corresponds to the AUTOFLEX
+The list of references and relevant projects below corresponds to the STANDARDFLEX
 project proposal coordinated by ICCS (EL) under HORIZON EUROPE call
-CL5-2021-D3-02-06: Increasing energy system flexibility based on
-sector-integration services to consumers (that benefits system management by
-DSOs and TSOs.
+HORIZON-CL5-2022-D3-01-12: Replicable solutions for a cross sector compliant energy ecosystem.
 
 1. [List of references](#list-of-references)
 2. [List of relevant projects](#list-of-relevant-projects)
+3. [Letters of Intention](#letters-of-intention)
 
 ### List of references
 
@@ -32,6 +31,14 @@ DSOs and TSOs.
 {% for proj in site.data.relevant_projects %}
 
 - **{{ proj.acronym }}** [{{proj.link}}]({{proj.link}})
+
+{% endfor %}
+
+### Letters of intention
+
+{% for letter in site.data.letters %}
+
+- **{{ letter.acronym }}** [{{letter.link}}]({{letter.link}})
 
 {% endfor %}
 

@@ -38,7 +38,9 @@ HORIZON-CL5-2022-D3-01-12: Replicable solutions for a cross sector compliant ene
 
 {% for letter in site.data.letters %}
 
-- **{{ letter.acronym }}** [{{letter.filename}}]({{letter.filename | prepend: '/assets/letters/' | prepend: site.baseurl}})
+- **{{ letter.acronym }}** [{{letter.filename}}]({{letter.filename | append: '.pdf' | prepend: '/assets/letters/' | prepend: site.baseurl}})  
+  ![{{letter.filename}}]({{letter.filename | append: '.svg' | prepend: '/assets/letters/' | prepend: site.baseurl}})
+
 
 {% endfor %}
 
